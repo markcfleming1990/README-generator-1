@@ -3,12 +3,12 @@
    
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
-    <img src="https://img.shields.io/github/issues/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
+    <img src="https://img.shields.io/github/repo-size/markcfleming1990/README-generator" />
+    <img src="https://img.shields.io/github/languages/top/markcfleming1990/README-generator"  />
+    <img src="https://img.shields.io/github/issues/markcfleming1990/README-generator" />
+    <img src="https://img.shields.io/github/last-commit/markcfleming1990/README-generator" >
+    <a href="https://twitter.com/goat904">
+        <img alt="Twitter: Mark Fleming" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
     </a>
 </p>
   
@@ -27,7 +27,7 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![DeWoody README Generator](./src/dewoody-readme-generator.gif)
+![Mark Fleming README Generator](./src/markcfleming-readme-generator.gif)
   
 🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
   
